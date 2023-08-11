@@ -18,7 +18,7 @@ executables = [
 
 # Configuração do setup
 setup(
-    name="ConversorPDFtoXLSX",
+    name="PDFtoXLSX",
     version="0.1",
     description="Conversor de PDF para XLSX",
     options={
